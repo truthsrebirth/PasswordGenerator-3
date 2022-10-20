@@ -23,14 +23,14 @@ body {
   padding-right: 20px;
 }
 
-header {
+header { /* This section edits the header tab in html*/
   text-align: center;
   padding: 20px;
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
 }
 
-.card {
+.card { /* This section edits the card class in html*/
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
   border-width: 1px;
@@ -72,7 +72,7 @@ header {
   clear: both;
 }
 
-.btn {
+.btn {  /* This section edits the button class in html*/
   border: none;
   background-color: hsl(360, 91%, 36%);
   border-radius: 25px;
@@ -97,7 +97,7 @@ button[disabled] {
   float: right;
 }
 
-#password {
+#password {  /* This section edits the password id in html*/
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -118,7 +118,7 @@ button[disabled] {
   overflow: hidden;
 }
 
-@media (max-width: 690px) {
+@media (max-width: 690px) {  /* This section edits the screen sizes on different devices according to the class or id */
   .btn {
     font-size: 1rem;
     margin: 16px 0px 0px 0px;
