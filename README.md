@@ -3,6 +3,7 @@
 I created a password generator with JavaScript. CSS, and HTML. The user is able to create a random password with special characters, numbers, upper case and lower case letters. The length has to be from 10 to 130 characters long. I was able to use several different variables, functions and for loops to create this. 
 
 # live site: 
+https://truthsrebirth.github.io/PasswordGenerator-3/
 
 # Screenshot 
 ![Screenshot of Password Generator](./assets/images/passwordgenerator.png) 
